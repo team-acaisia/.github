@@ -1,4 +1,4 @@
-Introducing Acaisia: Affordable, Decentralized Computing & Storage
+### Introducing Acaisia: Affordable, Decentralized Computing & Storage
 
 Are you tired of the expensive cloud services that limit your access to computing resources? Acaisia has the solution you've been waiting for.
 
